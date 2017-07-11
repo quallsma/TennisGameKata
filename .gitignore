@@ -17,3 +17,6 @@ gradle-app.setting
 # gradle/wrapper/gradle-wrapper.properties
 
 *.jar
+.idea/vcs.xml
+src/main/resources/
+src/test/resources/
